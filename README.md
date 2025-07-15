@@ -1,6 +1,7 @@
 # Mediavida Old Posts Remover
 
 Un script de Python para automatizar la edición y limpieza de posts antiguos en los foros de Mediavida.com.
+Solo elimina los posts listados en tu perfil.
 
 Esta herramienta te permite iniciar sesión en tu cuenta y reemplazar el contenido de todos los posts que superen una antigüedad determinada (definida en años) por un simple punto (`.`).
 
